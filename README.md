@@ -5,11 +5,11 @@ This project focuses on analyzing key hospitality metrics for **Atliq Hotels**, 
 
 ## 📊 Dataset Details
 The project utilizes multiple datasets related to hotel bookings:
-- **dim_date.csv** - Date-related details.
-- **dim_hotels.csv** - Information about different hotel properties.
-- **dim_rooms.csv** - Room types and classifications.
-- **fact_aggregated_bookings.csv** - Summarized booking data.
-- **fact_bookings.csv** - Detailed transactional booking data.
+- [dim date.csv](https://github.com/Kavya-CS/Atliq-Hospitality-Analysis/blob/main/dim_date.csv) - Date-related details.
+- [dim hotels.csv](https://github.com/Kavya-CS/Atliq-Hospitality-Analysis/blob/main/dim_hotels.csv) - Information about different hotel properties.
+- [dim rooms.csv](https://github.com/Kavya-CS/Atliq-Hospitality-Analysis/blob/main/dim_rooms.csv) - Room types and classifications.
+- [fact_aggregated_bookings.csv](https://github.com/Kavya-CS/Atliq-Hospitality-Analysis/blob/main/fact_aggregated_bookings.csv) - Summarized booking data.
+- [fact bookings.csv](https://github.com/Kavya-CS/Atliq-Hospitality-Analysis/blob/main/fact_bookings.csv) - Detailed transactional booking data.
 
 ## 🔍 Key Insights
 - **Revenue Analysis**: The total revenue generated is **581.9M**, with the highest revenue coming from Mumbai.
