@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 This project focuses on analyzing key hospitality metrics for **Atliq Hotels**, a chain of premium hotels. The analysis provides insights into **revenue, occupancy rates, average daily rates (ADR), and booking trends** using Power BI.
 
+[LIVE DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiM2YyNDRiNTktZjMwYy00MTg5LWJhNjYtYzBhMmIzYmQ4MWJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ## 📊 Dataset Details
 The project utilizes multiple datasets related to hotel bookings:
 - [dim date.csv](https://github.com/Kavya-CS/Atliq-Hospitality-Analysis/blob/main/dim_date.csv) - Date-related details.
